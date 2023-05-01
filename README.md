@@ -20,6 +20,9 @@
 
              git config --global user.name "tjghwns"
 
+* 유저 이메일 설정하기(반드시 github에 가입했던 이메일주소와 동일해야한다)
+
+             git config --global user.email "your_email"
 
 
 
