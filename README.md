@@ -50,3 +50,10 @@
    * Github의 repository를 만들고 그 주소와 연결하기
    
                   git remote add origin https://github.com/tjghwns93/css_flex.git
+
+   * 연결이 잘 되었는지 확인하기(사용 안해도 됨)
+
+                  git remote -v
+                  
+   * Github에 올리기
+                  git push origin master
