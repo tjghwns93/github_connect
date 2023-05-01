@@ -14,5 +14,12 @@
 ------------------
 ## 2. 깃 설치 후 git bash 열기
 
+![image](https://user-images.githubusercontent.com/129016977/235418160-2616dd0e-8e32-45ea-9a25-5dd6a81cf03f.png)
+
+* 유저 이름 설정
+
+             git config --global user.name "tjghwns"
+
+
 
 
