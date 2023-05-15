@@ -82,12 +82,15 @@
 2. 브랜치(branch) 만들기
 
    git checkout -b 브랜치이름
+   
    git check -b seo
    
    git add .
+   
    git commit -m "하나카드"
    
    git push origin 브랜치이름
+   
    git push origin seo
    
    ![image](https://github.com/tjghwns93/github_connect/assets/129016977/33a6c7b4-8a5d-4cfa-b5a1-66734fd382f1)
