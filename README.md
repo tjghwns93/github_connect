@@ -61,14 +61,14 @@
 ----------------------------------
 ## 수정하여 다시 업로드할 때 
 
-1. 기존의 코드를 다운받는 행위를 해야한다.
+1. git pull origin master
 
-        git pull origin master
-        
-2. 다시 push 해야한다.
+2. git add .
 
-        git push origin master 
-        
+3. git commit -m ""
+
+4. git push origin master
+      
         
 ----------------------------------------------------
 # github 협업하는 방법
